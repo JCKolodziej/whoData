@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/who_data.iml" filepath="$PROJECT_DIR$/who_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WHO_Data.iml" filepath="$PROJECT_DIR$/.idea/modules/WHO_Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WHO_Data-build.iml" filepath="$PROJECT_DIR$/.idea/modules/WHO_Data-build.iml" />
     </modules>
   </component>
 </project>
