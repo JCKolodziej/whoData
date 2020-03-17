@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b397a15-e28f-4344-aab8-b95219645bd2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataRetriver.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/who_data.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +33,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SbtLocalSettings">
     <option name="availableProjects">
@@ -57,7 +55,7 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="who_data [file:/C:/Users/kuba/IdeaProjects/who_data/]" />
+                <option name="name" value="whodata [file:/C:/Users/kuba/IdeaProjects/who_data/whoData/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -71,14 +69,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3168890113345" />
         <entry key="$PROJECT_DIR$/build.sbt" value="1160023937" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
-      </map>
-    </option>
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
       </map>
     </option>
   </component>
@@ -93,14 +85,25 @@
       <option name="presentableId" value="Default" />
       <updated>1584445056646</updated>
       <workItem from="1584445060211" duration="502000" />
-      <workItem from="1584445663479" duration="32000" />
+      <workItem from="1584445663479" duration="71000" />
     </task>
+    <task id="LOCAL-00001" summary="changed to sbt project">
+      <created>1584445696943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584445696943</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/whoData" />
+    </ignored-roots>
     <MESSAGE value="changed to sbt project" />
     <option name="LAST_COMMIT_MESSAGE" value="changed to sbt project" />
   </component>
@@ -113,17 +116,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="590" y="209" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584445401628" />
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1584445694907">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1584445804931">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584445694907" />
+    <state x="585" y="114" key="CommitChangelistDialog2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584445804931" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1584445308597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584445308597" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1584445339056">
+    <state x="440" y="94" key="SettingsEditor" timestamp="1584445713855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584445339056" />
+    <state x="440" y="94" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1584445713855" />
   </component>
 </project>
