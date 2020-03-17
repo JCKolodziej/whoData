@@ -1,3 +1,5 @@
+
+
 object dataRetriver extends App{
   val url = "https://ghoapi.azureedge.net/api/DIMENSION/COUNTRY/DimensionValues"
   val result = scala.io.Source.fromURL(url)
@@ -5,4 +7,5 @@ object dataRetriver extends App{
   result.foreach(println)
   println(result)
   println(res)
+
 }
